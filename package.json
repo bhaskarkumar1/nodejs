@@ -11,6 +11,7 @@
     "url": "git+https://github.com/bhaskarkumar1/nodejs.git"
   },
   "author": "\"Bhaskar\"",
+  "type":"module",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bhaskarkumar1/nodejs/issues"
